@@ -17,7 +17,7 @@
 import modalPopup from './popup.vue';
 
 export default {
-  name: 'confirm',
+  name: 'modal-confirm',
   props: {
       confirm: {
           type: [Boolean, String],
