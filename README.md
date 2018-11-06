@@ -53,4 +53,7 @@ Vue.use(h5Popup)
 ![ VUE开发一个组件——移动端弹出层（IOS版）](http://www.javanx.cn/wp-content/themes/lensnews2.2/images/post/20181106164208.png)
 
 github地址： [vue-h5-popup](https://github.com/javanf/vue-h5-popup)
-npm地址： [vue-h5-popup]()
+npm地址： [vue-h5-popup](https://www.npmjs.com/package/vue-h5-popup)
+
+## 联系我
+请移驾[web秀](http://www.javanx.cn/)

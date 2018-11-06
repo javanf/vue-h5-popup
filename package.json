@@ -1,7 +1,7 @@
 {
   "name": "vue-h5-popup",
-  "description": "vue h5 popup",
-  "version": "1.0.0",
+  "description": "vue组件，移动端弹出层，包括confrim询问框，tips提示框，popup选择器等",
+  "version": "1.0.1",
   "author": "javan<www.javanx.cn>",
   "license": "MIT",
   "private": false,

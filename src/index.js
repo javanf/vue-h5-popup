@@ -4,8 +4,8 @@ import modalNotice from './notice.vue'
 
 const components = [
   modalAlert,
-  confirm,
-  notice
+  modalConfirm,
+  modalNotice
 ]
 
 const install = function (Vue, opts = {}) {
